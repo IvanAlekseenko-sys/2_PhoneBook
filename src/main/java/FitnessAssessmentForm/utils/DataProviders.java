@@ -1,4 +1,4 @@
-package FitnessAssesmentForm.utils;
+package FitnessAssessmentForm.utils;
 
 import org.testng.annotations.DataProvider;
 

@@ -1,4 +1,4 @@
-package FitnessAssesmentForm.core;
+package FitnessAssessmentForm.core;
 
 import com.google.common.io.Files;
 import org.openqa.selenium.*;

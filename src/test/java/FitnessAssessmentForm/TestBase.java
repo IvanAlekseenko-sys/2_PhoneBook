@@ -1,6 +1,6 @@
-package FitnessAssesmentForm;
+package FitnessAssessmentForm;
 
-import FitnessAssesmentForm.core.ApplicationManager;
+import FitnessAssessmentForm.core.ApplicationManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.ITestResult;
@@ -11,7 +11,7 @@ import java.lang.reflect.Method;
 
 public class TestBase extends ApplicationManager {
 
-    Logger logger = LoggerFactory.getLogger(FitnessAssesmentForm.TestBase.class);
+    Logger logger = LoggerFactory.getLogger(FitnessAssessmentForm.TestBase.class);
 
     public TestBase(String browser) {
         super(browser);
