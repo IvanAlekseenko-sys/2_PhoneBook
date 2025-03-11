@@ -70,6 +70,7 @@ public class LoginTests extends TestBase {
 
     @AfterMethod
     public void postCondition() {
+        System.out.println("Jenkins check");
         //app.getUserHelper().clickOnSignOutButton();
     }
 }
